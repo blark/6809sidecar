@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "2023-01-16_02-43-55")(type "Legacy")(uri "${KIPRJMOD}/2023-01-16_02-43-55/2023-01-16_02-43-55.lib")(options "")(descr ""))
+  (lib (name "custom6309")(type "KiCad")(uri "${KIPRJMOD}/custom6309.kicad_sym")(options "")(descr ""))
+)
