@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "footprints")(type "KiCad")(uri "${KIPRJMOD}/2023-01-16_02-43-55/footprints.pretty")(options "")(descr ""))
+  (lib (name "primer20k")(type "KiCad")(uri "${KIPRJMOD}/primer20k.pretty")(options "")(descr ""))
+)
