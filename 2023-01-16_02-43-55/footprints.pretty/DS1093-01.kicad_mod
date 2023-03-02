@@ -30,8 +30,8 @@
   (pad "SH" thru_hole circle (at -6.85 3.28) (size 3.3 3.3) (drill 2.3) (layers "*.Cu" "*.Mask") (tstamp d8c4f812-64d7-4024-877d-8dae84232185))
   (pad "SH" thru_hole circle (at 0 4.28) (size 3.3 3.3) (drill 2.3) (layers "*.Cu" "*.Mask") (tstamp 1abc0719-ed29-49a8-a935-dacbc7658959))
   (pad "SH" thru_hole circle (at 6.85 3.28) (size 3.3 3.3) (drill 2.3) (layers "*.Cu" "*.Mask") (tstamp 577e59c6-e110-48e6-b25c-2498c4b350d4))
-  (model "/Users/blark/Downloads/User Library-MINI-DIN-6.step"
-    (offset (xyz 0 -8.8 6.5))
+  (model "${KIPRJMOD}/3d/User Library-MINI-DIN-6.step"
+    (offset (xyz 0 -8.75 6.5))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 90))
   )
